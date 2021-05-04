@@ -1,0 +1,29 @@
+{
+    "title": "Statistiques du covid-19 à Madagascar et dans le Monde",
+    "description": "Madagascar et le Monde contre le <strong>coronavirus</strong><br>Cette <strong>statistique</strong> montre le nombre de personnes infectées par le <strong>coronavirus</strong> <strong>Covid-19</strong> dans le monde entier.",
+    "keywords": [
+        "corona",
+        "virus",
+        "coronavirus",
+        "covid",
+        "covid-19",
+        "pandemie",
+        "statistique",
+        "statistiques"
+    ],
+    "heading": "Statistiques du covid-19 à Madagascar et dans le Monde",
+    "focus": {
+        "label": [
+            "Pandemie Covid-19: Informations sur la maladie coronavirus",
+            "Questions réponses sur les masques et les enfants dans le contexte de la covid-19",
+            "Maladie à coronavirus 2019 (COVID-19): conseils au grand public",
+            "Pandemie Covid-19: Actualités sur la maladie coronavirus"
+        ],
+        "link": [
+            "informations-covid-19/pandemie-covid-19-informations-sur-la-maladie-coronavirus",
+            "informations-covid-19/questions-reponses-sur-les-masques-et-les-enfants-dans-le-contexte-de-la-covid-19",
+            "informations-covid-19/maladie-a-coronavirus-covid-19-conseils-au-grand-public",
+            "informations-covid-19/pandemie-covid-19-actualites-sur-la-maladie-coronavirus"
+        ]
+    }
+}
