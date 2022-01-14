@@ -1,6 +1,6 @@
-# tp-S6
+# Coronavirus informations website.
+Splited by two sides: 
+- Back Office
+- Front Office
 
-FO: https://covid-1010.herokuapp.com/
-BO: https://covid-1010-admin.herokuapp.com/
-Login: admin/admin
-ETU 001010
+# It was an academic project developed by me in 24hours for learning the principles of codeigniter framework.
